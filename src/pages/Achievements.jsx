@@ -1,6 +1,6 @@
-export default function AchievementsPage() {
+export default function Achievements() {
   return (
-    <div className="min-h-screen bg-white text-gray-800 p-8 font-sans">
+    <div className="bg-white shadow-md rounded-2xl p-6 mb-6">
       <div className="max-w-4xl mx-auto">
         <h1 className="text-4xl font-bold mb-6 border-b pb-2">Achievements & Awards</h1>
 
